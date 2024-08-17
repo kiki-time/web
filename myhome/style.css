@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+.mainheader{
+    width:100%;
+    top:10px;
+    position:relative;
+    margin: auto;
+    background-color:lightblue;
+    text-align: center;
+    font-size:50px;
+    font-weight:bold;
+}
+.center{
+    width:300px;
+    top:200px;
+    position:relative;
+    padding:20px;
+    margin: auto;
+    border:0;
+    border-radius: 5px;
+    background-color:lightblue;
+}
+.Login{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.signup{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom:20px;
+}
+.text-field{
+    font-size:14px;
+    margin-bottom:10px;
+    border:none;
+    border-radius: 5px;
+    padding:10px;
+    width:100%;
+}
+.submit-btn{
+    font-size: 14px;
+    margin-bottom:10px;
+    padding:10px;
+    border:none;
+    border-radius: 5px;
+    width:100%;
+}
+.links{
+    text-align: center;
+}
