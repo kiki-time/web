@@ -8,7 +8,7 @@ if (isset($_SESSION['member_id'])){
  //소개
  ?>
  
-<!DOCTYPE html>
+Copy<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
